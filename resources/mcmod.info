@@ -1,0 +1,16 @@
+[
+{
+  "modid": "SaltMod",
+  "name": "Salty Mod",
+  "description": "",
+  "version": "1.8.d",
+  "mcversion": "1.10.2",
+  "url": "http://minecraft.curseforge.com/projects/saltymod",
+  "updateUrl": "",
+  "authorList": ["Liahim"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
