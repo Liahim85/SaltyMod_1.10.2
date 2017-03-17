@@ -1,0 +1,6 @@
+﻿{
+    "parent": "block/cross",
+    "textures": {
+        "cross": "saltmod:blocks/SaltCrystal_M"
+    }
+}

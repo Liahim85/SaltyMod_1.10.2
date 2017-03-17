@@ -1,0 +1,12 @@
+﻿{
+    "parent": "block/cube",
+    "textures": {
+        "particle": "saltmod:blocks/Extractor_Fase_Off",
+        "down": "blocks/furnace_top",
+        "up": "saltmod:blocks/Extractor_Top",
+        "north": "saltmod:blocks/Extractor_Fase_Off",
+        "east": "blocks/furnace_side",
+        "south": "blocks/furnace_side",
+        "west": "blocks/furnace_side"
+    }
+}

@@ -1,0 +1,8 @@
+﻿{
+    "parent": "block/half_slab",
+    "textures": {
+        "bottom": "saltmod:blocks/SaltBlock_Lines_Top",
+        "top": "saltmod:blocks/SaltBlock_Lines_Top",
+        "side": "saltmod:blocks/SaltBlock_Lines"
+    }
+}

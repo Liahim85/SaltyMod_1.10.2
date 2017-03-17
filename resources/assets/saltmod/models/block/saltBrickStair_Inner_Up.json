@@ -1,0 +1,8 @@
+﻿{
+    "parent": "block/inner_stairs",
+    "textures": {
+        "bottom": "saltmod:blocks/SaltBrick_Top",
+        "top": "saltmod:blocks/SaltBrick_Bottom",       
+        "side": "saltmod:blocks/SaltBrick"
+    }
+}

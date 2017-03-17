@@ -1,0 +1,13 @@
+﻿{  
+    "parent": "saltmod:block/salt_grass",
+    "textures": {
+        "particle": "saltmod:blocks/SaltGrass",
+        "down": "saltmod:blocks/SaltDirtLite_0",
+        "up": "blocks/grass_top",
+        "north": "saltmod:blocks/SaltGrass",
+        "east": "saltmod:blocks/SaltGrass",
+        "south": "saltmod:blocks/SaltGrass",
+        "west": "saltmod:blocks/SaltGrass",
+        "overlay": "blocks/grass_side_overlay"
+    }
+}

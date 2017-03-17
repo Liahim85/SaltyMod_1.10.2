@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "variant=default": { "model": "saltmod:saltDirt" },
+        "variant=lake": { "model": "saltmod:saltDirtLake" }
+    }
+}

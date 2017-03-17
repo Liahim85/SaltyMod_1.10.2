@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "contents=empty":      { "model": "flower_pot" },
+        "contents=saltwort_0": { "model": "saltmod:saltPot_saltwort_0" },
+        "contents=saltwort_1": { "model": "saltmod:saltPot_saltwort_1" }
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "saltmod:extractorLit" },
+        "facing=south": { "model": "saltmod:extractorLit", "y": 180 },
+        "facing=west":  { "model": "saltmod:extractorLit", "y": 270 },
+        "facing=east":  { "model": "saltmod:extractorLit", "y": 90 }
+    }
+}

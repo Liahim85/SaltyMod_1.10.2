@@ -1,0 +1,8 @@
+﻿{
+    "parent": "block/upper_slab",
+    "textures": {
+        "bottom": "saltmod:blocks/SaltBlock",
+        "top": "saltmod:blocks/SaltBlock",
+        "side": "saltmod:blocks/SaltSlab"
+    }
+}

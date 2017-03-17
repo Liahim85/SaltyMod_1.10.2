@@ -1,0 +1,7 @@
+﻿{
+    "parent": "block/cube_column",
+    "textures": {
+        "end": "saltmod:blocks/SaltBlock",
+        "side": "saltmod:blocks/SaltSlab"
+    }
+}

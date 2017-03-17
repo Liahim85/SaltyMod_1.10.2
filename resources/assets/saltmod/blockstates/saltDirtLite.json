@@ -1,0 +1,20 @@
+{
+    "variants": {
+        "variant=empty": { "model": "saltmod:saltDirtLite_0" },
+        "variant=medium": { "model": "saltmod:saltDirtLite_1" },
+        "variant=full": { "model": "saltmod:saltDirtLite_2" },
+        "variant=side_cne": { "model": "saltmod:saltDirtLite_cne" },
+        "variant=side_ces": { "model": "saltmod:saltDirtLite_cne", "y": 90, "uvlock": true },
+        "variant=side_csw": { "model": "saltmod:saltDirtLite_cne", "y": 180, "uvlock": true },
+        "variant=side_cwn": { "model": "saltmod:saltDirtLite_cne", "y": 270, "uvlock": true },
+        "variant=side_n": { "model": "saltmod:saltDirtLite_n" },
+        "variant=side_e": { "model": "saltmod:saltDirtLite_n", "y": 90, "uvlock": true },
+        "variant=side_s": { "model": "saltmod:saltDirtLite_n", "y": 180, "uvlock": true },
+        "variant=side_w": { "model": "saltmod:saltDirtLite_n", "y": 270, "uvlock": true },
+        "variant=side_ne": { "model": "saltmod:saltDirtLite_ne" },
+        "variant=side_es": { "model": "saltmod:saltDirtLite_ne", "y": 90, "uvlock": true },
+        "variant=side_sw": { "model": "saltmod:saltDirtLite_ne", "y": 180, "uvlock": true },
+        "variant=side_wn": { "model": "saltmod:saltDirtLite_ne", "y": 270, "uvlock": true },
+        "variant=side_nesw": { "model": "saltmod:saltDirtLite_nesw" }
+    }
+}

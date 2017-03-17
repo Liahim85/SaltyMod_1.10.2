@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "variant=block": { "model": "saltmod:saltSlab_Double_Block" },
+        "variant=brick": { "model": "saltmod:saltBrick" },
+        "variant=pillar": { "model": "saltmod:saltBlock_Pillar" }
+    }
+}
